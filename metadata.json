@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "A polished personal finance tracker with transactions history, categorized budgets, dynamic spending visualizers, and a REST API backend with SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
