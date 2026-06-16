@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+*.log
+finance_tracker.db
+.env
+.env.local
